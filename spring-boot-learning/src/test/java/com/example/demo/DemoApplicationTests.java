@@ -1,7 +1,8 @@
 package com.example.demo;
-import com.example.demo.Controller.UserController;
-import com.example.demo.Mapper.UserMapper;
-import com.example.demo.com.didispace.web.BlogProperties;
+
+import com.example.demo.controller.UserController;
+import com.example.demo.mapper.UserMapper;
+import com.example.demo.service.BlogProperties;
 import com.example.demo.service.Task;
 import org.junit.Assert;
 import org.junit.Before;

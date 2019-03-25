@@ -1,4 +1,4 @@
-package com.example.demo.com.didispace.web;
+package com.example.demo.configuration;
 
 
 import org.springframework.context.annotation.Bean;

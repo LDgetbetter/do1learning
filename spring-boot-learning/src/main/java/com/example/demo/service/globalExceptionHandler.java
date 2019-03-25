@@ -1,4 +1,4 @@
-package com.example.demo.com.didispace.web;
+package com.example.demo.service;
 
 import org.springframework.web.bind.annotation.ControllerAdvice;
 import org.springframework.web.bind.annotation.ExceptionHandler;

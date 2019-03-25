@@ -1,4 +1,4 @@
-package com.example.demo.Mapper;
+package com.example.demo.mapper;
 
 import org.apache.ibatis.annotations.*;
 import org.springframework.cache.annotation.CacheConfig;
